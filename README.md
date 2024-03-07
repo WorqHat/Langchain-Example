@@ -4,11 +4,18 @@ The `CustomLLM` class represents a cutting-edge integration with Worqhat AI, spe
 
 ## Examples Available
 
-- **Langchain-AiCon-Alpha.ipynb**: Demonstrates the integration with the Alpha version of the Worqhat AI content generation API, focusing on initial capabilities and basic usage. This emphasizes on how you can use our ``online`` LLMs. They are online LLMs because they can use knowledge from the internet, and thus can leverage the most up-to-date information when forming a response. By providing our LLMs with knowledge from the web, our models accurately respond to time sensitive queries, unlocking knowledge beyond its training corpus. This means AiCOn V3 Alpha can answer queries like “What was the game score last night?” that are challenging for offline models.  [View in Colab](https://colab.research.google.com/github/WorqHat/Langchain-Example/blob/main/Langchain_AiCon-Alpha.ipynb)
+- **Langchain-AiCon-Alpha.ipynb**: Demonstrates the integration with the Alpha version of the Worqhat AI content generation API, focusing on initial capabilities and basic usage. This emphasizes on how you can use our ``online`` LLMs. They are online LLMs because they can use knowledge from the internet, and thus can leverage the most up-to-date information when forming a response. By providing our LLMs with knowledge from the web, our models accurately respond to time sensitive queries, unlocking knowledge beyond its training corpus. This means AiCOn V3 Alpha can answer queries like “What was the game score last night?” that are challenging for offline models.
+  - Without Data Streaming [View in Colab](hhttps://colab.research.google.com/github/WorqHat/Langchain-Example/blob/main/Langchain-AiCon-Alpha.ipynb)
+  - With Data Streaming [View in Colab](hhttps://colab.research.google.com/github/WorqHat/Langchain-Example/blob/main/Langchain-AiCon-Alpha-data-stream.ipynb)
 
-- **Langchain-AiCon-V2.ipynb**: Showcases the use of the `CustomLLM` class with AiCon V2, highlighting advanced content generation features and customization options. One of our most widely accessible LLM, with the capability to perform critical tasks in fraction of the Time and Cost compared to most LLMs[View in Colab](https://colab.research.google.com/github/WorqHat/Langchain-Example/blob/main/Langchain_AiCon-V2.ipynb)
+- **Langchain-AiCon-V2.ipynb**: Showcases the use of the `CustomLLM` class with AiCon V2, highlighting advanced content generation features and customization options. One of our most widely accessible LLM, with the capability to perform critical tasks in fraction of the Time and Cost compared to most LLMs.
+  - Without Data Streaming [View in Colab](hhttps://colab.research.google.com/github/WorqHat/Langchain-Example/blob/main/Langchain-AiCon-V2.ipynb)
+  - With Data Streaming [View in Colab](hhttps://colab.research.google.com/github/WorqHat/Langchain-Example/blob/main/Langchain-AiCon-V2-data-stream.ipynb)
 
-- **Langchain-AiCon-V3.ipynb**: Introduces the latest advancements with AiCon V3, including enhanced conversational abilities and updated training data. [View in Colab](https://colab.research.google.com/github/WorqHat/Langchain-Example/blob/main/Langchain_AiCon-V3.ipynb)
+
+- **Langchain-AiCon-V3.ipynb**: Introduces the latest advancements with AiCon V3, including enhanced conversational abilities and updated training data. Our best, Largest and Most Capable Enterprise Model in production.
+  - Without Data Streaming [View in Colab](hhttps://colab.research.google.com/github/WorqHat/Langchain-Example/blob/main/Langchain-AiCon-V3.ipynb)
+  - With Data Streaming [View in Colab](hhttps://colab.research.google.com/github/WorqHat/Langchain-Example/blob/main/Langchain-AiCon-V3-data-stream.ipynb)
 
 ## Features
 
