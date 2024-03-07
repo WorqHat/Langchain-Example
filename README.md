@@ -2,6 +2,14 @@
 
 The `CustomLLM` class represents a cutting-edge integration with Worqhat AI, specifically designed to harness the power of advanced content generation APIs. This class is not just a bridge to Worqhat AI but a sophisticated tool tailored for generating highly relevant and context-aware text responses. By leveraging the capabilities of Worqhat AI, `CustomLLM` is perfectly suited for a myriad of applications ranging from dynamic few-shot learning scenarios to the nuanced preservation of conversation histories, making it an invaluable asset for developers looking to incorporate intelligent language models into their projects.
 
+## Examples Available
+
+- **Langchain-AiCon-Alpha.ipynb**: Demonstrates the integration with the Alpha version of the Worqhat AI content generation API, focusing on initial capabilities and basic usage. This emphasizes on how you can use our ``online`` LLMs. They are online LLMs because they can use knowledge from the internet, and thus can leverage the most up-to-date information when forming a response. By providing our LLMs with knowledge from the web, our models accurately respond to time sensitive queries, unlocking knowledge beyond its training corpus. This means AiCOn V3 Alpha can answer queries like “What was the game score last night?” that are challenging for offline models.  [View in Colab](https://colab.research.google.com/github/WorqHat/Langchain-Example/blob/main/Langchain_AiCon-Alpha.ipynb)
+
+- **Langchain-AiCon-V2.ipynb**: Showcases the use of the `CustomLLM` class with AiCon V2, highlighting advanced content generation features and customization options. One of our most widely accessible LLM, with the capability to perform critical tasks in fraction of the Time and Cost compared to most LLMs[View in Colab](https://colab.research.google.com/github/WorqHat/Langchain-Example/blob/main/Langchain_AiCon-V2.ipynb)
+
+- **Langchain-AiCon-V3.ipynb**: Introduces the latest advancements with AiCon V3, including enhanced conversational abilities and updated training data. [View in Colab](https://colab.research.google.com/github/WorqHat/Langchain-Example/blob/main/Langchain_AiCon-V3.ipynb)
+
 ## Features
 
 ### Few-Shot Learning
